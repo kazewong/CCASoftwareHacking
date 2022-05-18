@@ -1,5 +1,5 @@
-## CCA Software Hacker
-
+CCA Software Hacker
+==========================
 Welcome! This is a package created out of the Astronomy Software Workshop in May 2022 at the Center for Computational Astrophysics/Math for America.
 Its _primary_ goal is to help us put in practice some of these software best practices and tricks we've been learning about throughout the week. 
 Its _secondary_ goal is to plot a Gaussian distribution. 
