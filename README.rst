@@ -6,5 +6,6 @@ Its *secondary* goal is to plot a Gaussian distribution.
 
 Questions? Comments? Good! We have them too. Let's learn together!
 
-Can we add emojis to a README? 
-:grinning:
+Can we add emojis to a README? Turns out we can! :grinning:
+
+For more extensive documentation and example usage, check out our readthedocs `here <https://cca-software-hacking.readthedocs.io/en/latest/>`_.
