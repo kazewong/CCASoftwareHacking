@@ -5,3 +5,6 @@ Its *primary* goal is to help us put in practice some of these software best pra
 Its *secondary* goal is to plot a Gaussian distribution.
 
 Questions? Comments? Good! We have them too. Let's learn together!
+
+Can we add emojis to a README? 
+:grinning:
